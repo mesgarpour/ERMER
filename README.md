@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/0B66ZhjpqQA5PcFhnNWxUdUpYUms/view?usp=sharing">
+  <img src="https://github.com/mesgarpour/ERMER/blob/master/Documents/Logo/logo_ermer.png">
 </div>
 <br><br>
 
@@ -24,8 +24,8 @@
 [Ensemble Risk Model of Emergency Admissions (ERMER)](https://github.com/mesgarpour/ERMER) is an optimised ensemble of sub-models that are trained using [Bayes Point Machine (BPM)](http://www.jmlr.org/papers/v1/herbrich01a.html). The features of the model are generated using the [Healthcare Pre-Processing Framework](https://github.com/mesgarpour/Healthcare_PreProcessing_Framework), but it is not integrated into the [ERMER](https://github.com/mesgarpour/ERMER) development toolkit, in order to preserve the tool's generic structure. The [ERMER](https://github.com/mesgarpour/ERMER) development toolkit is a generic, user-friendly and open-source software package that can be used for development of temporal comorbidity index independent of source of healthcare data.
 
 The development toolkit consists of two parts:
-+  The Ensemble model: The generic implementation of the ensemble optimisation algorithm
-+  The ERMER Notebook: The Ensemble model & the [BPM](http://www.jmlr.org/papers/v1/herbrich01a.html) algorithm (to be added!)
++  [The Ensemble model](https://github.com/mesgarpour/ERMER/tree/master/Ensemble_Model): The generic implementation of the ensemble optimisation algorithm
++  [The ERMER Notebook](https://github.com/mesgarpour/ERMER/tree/master/ERMER_Notebook): The Ensemble model & the [BPM](http://www.jmlr.org/papers/v1/herbrich01a.html) algorithm (to be added!)
 
 In addition the framework might be used to pre-prrocess and generate features:
 + The [Healthcare Pre-Processing Framework](https://github.com/mesgarpour/Healthcare_PreProcessing_Framework)

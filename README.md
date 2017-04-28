@@ -55,7 +55,7 @@ The proposed decision support tool performed considerably better than the previo
 
 # Related Publications
 +  Mesgarpour, M., Chaussalet, T. & Chahed, S. (2017) [Ensemble Risk Model of Emergency Readmission (ERMER)](http://dx.doi.org/10.1016/j.ijmedinf.2017.04.010). International Journal of Medical Informatics, 2017 Elsevier.
-+  Mesgarpour, M. (2017) Using Machine Learning Techniques in Predictive Risk Modelling in Healthcare. (to be added!)
++  Mesgarpour, M. (2017) PhD Thesis - Using Machine Learning Techniques in Predictive Risk Modelling in Healthcare. (to be added!)
 
 
 

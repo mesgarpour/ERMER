@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left" style="width:60%; height:60%;">
   <img src="https://github.com/mesgarpour/ERMER/blob/master/Documents/Logo/logo_ermer.png">
 </div>
 <br><br>

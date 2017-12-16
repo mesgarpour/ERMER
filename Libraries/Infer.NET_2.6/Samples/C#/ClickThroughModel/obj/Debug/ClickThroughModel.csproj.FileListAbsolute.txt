@@ -1,0 +1,15 @@
+C:\Users\eagle\Documents\GitHub\Analytics_UoW_R\Analysis - Stage 2\InferNetModelling\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\bin\Debug\ClickThroughModel.exe.config
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\bin\Debug\ClickThroughModel.exe.config
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\bin\Debug\ClickThroughModel.exe
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\bin\Debug\ClickThroughModel.pdb
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\bin\Debug\Infer.Compiler.dll
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\bin\Debug\Infer.Runtime.dll
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\bin\Debug\Infer.Compiler.pdb
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\bin\Debug\Infer.Compiler.xml
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\bin\Debug\Infer.Runtime.pdb
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\bin\Debug\Infer.Runtime.xml
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\obj\Debug\ClickThroughModel.Form1.resources
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\obj\Debug\ClickThroughModel.Properties.Resources.resources
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\obj\Debug\ClickThroughModel.csproj.GenerateResource.Cache
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\obj\Debug\ClickThroughModel.exe
+C:\Users\eagle-win\Documents\GitHub\Analytics_UoW_R\Libraries\Infer.NET 2.6\Samples\C#\ClickThroughModel\obj\Debug\ClickThroughModel.pdb

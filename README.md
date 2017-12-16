@@ -1,5 +1,5 @@
-<div align="left" style="width:60%; height:60%;">
-  <img src="https://github.com/mesgarpour/ERMER/blob/master/Documents/Logo/logo_ermer.png">
+<div align="center">
+  <img src="https://drive.google.com/file/d/0B66ZhjpqQA5PcFhnNWxUdUpYUms/view?usp=sharing">
 </div>
 <br><br>
 
@@ -24,8 +24,8 @@
 [Ensemble Risk Model of Emergency Admissions (ERMER)](https://github.com/mesgarpour/ERMER) is an optimised ensemble of sub-models that are trained using [Bayes Point Machine (BPM)](http://www.jmlr.org/papers/v1/herbrich01a.html). The features of the model are generated using the [Healthcare Pre-Processing Framework](https://github.com/mesgarpour/Healthcare_PreProcessing_Framework), but it is not integrated into the [ERMER](https://github.com/mesgarpour/ERMER) development toolkit, in order to preserve the tool's generic structure. The [ERMER](https://github.com/mesgarpour/ERMER) development toolkit is a generic, user-friendly and open-source software package that can be used for development of temporal comorbidity index independent of source of healthcare data.
 
 The development toolkit consists of two parts:
-+  [The Ensemble model](https://github.com/mesgarpour/ERMER/tree/master/Ensemble_Model): The generic implementation of the ensemble optimisation algorithm
-+  [The ERMER Notebook](https://github.com/mesgarpour/ERMER/tree/master/ERMER_Notebook): The Ensemble model & the [BPM](http://www.jmlr.org/papers/v1/herbrich01a.html) algorithm (to be added!)
++  The Ensemble model: The generic implementation of the ensemble optimisation algorithm
++  The ERMER Notebook: The Ensemble model & the [BPM](http://www.jmlr.org/papers/v1/herbrich01a.html) algorithm (to be added!)
 
 In addition the framework might be used to pre-prrocess and generate features:
 + The [Healthcare Pre-Processing Framework](https://github.com/mesgarpour/Healthcare_PreProcessing_Framework)
@@ -55,7 +55,7 @@ The proposed decision support tool performed considerably better than the previo
 
 # Related Publications
 +  Mesgarpour, M., Chaussalet, T. & Chahed, S. (2017) [Ensemble Risk Model of Emergency Readmission (ERMER)](http://dx.doi.org/10.1016/j.ijmedinf.2017.04.010). International Journal of Medical Informatics, 2017 Elsevier.
-+  Mesgarpour, M. (2017) PhD Thesis - Using Machine Learning Techniques in Predictive Risk Modelling in Healthcare. (to be added!)
++  Mesgarpour, M. (2017) Using Machine Learning Techniques in Predictive Risk Modelling in Healthcare. (to be added!)
 
 
 

@@ -1,0 +1,1879 @@
+2017-12-16 14:47:00,738 - ensemble_model - INFO - creating C:\Users\eagle\Documents\GitHub\Analytics_UoW\ERMER\EnsembleModel\Outputs\ensemble_model.log file
+2017-12-16 14:47:00,739 - ensemble_model - INFO - Start
+2017-12-16 14:47:00,739 - ensemble_model - DEBUG - Settings: weight_sum_min:2; weight_sum_max:60; weight_max:59; trials_max:15; iteration_max:100; ensemble_type:mean; alpha_ensemble_min:0.005; alpha_model_min:0.5
+2017-12-16 14:47:00,741 - ensemble_model - INFO - Trial:0; Iteration:0
+2017-12-16 14:47:00,742 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,742 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,742 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,742 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,743 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,743 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,743 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,743 - ensemble_model - INFO - Trial:0; Iteration:1
+2017-12-16 14:47:00,744 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.757575757576; rmse:0.462766746023; sar:0.681603003851
+2017-12-16 14:47:00,744 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,744 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,744 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,744 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,744 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,744 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,744 - ensemble_model - INFO - Trial:0; Iteration:2
+2017-12-16 14:47:00,745 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.458681185304; sar:0.66293118739
+2017-12-16 14:47:00,745 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,745 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,745 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,745 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,745 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,745 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,745 - ensemble_model - INFO - Trial:0; Iteration:3
+2017-12-16 14:47:00,746 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.787878787879; rmse:0.456435464588; sar:0.67714777443
+2017-12-16 14:47:00,746 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,746 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,746 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,747 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,747 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,747 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,747 - ensemble_model - INFO - Trial:0; Iteration:4
+2017-12-16 14:47:00,748 - ensemble_model - DEBUG - Avg. improvement:0.5; Avg. degradation:0.5; acc:0.7; auc:0.787878787879; rmse:0.458382982285; sar:0.676498601865
+2017-12-16 14:47:00,748 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,748 - ensemble_model - DEBUG - Backward Elimination: submodel_main
+2017-12-16 14:47:00,748 - ensemble_model - INFO - Trial:0; Iteration:5
+2017-12-16 14:47:00,749 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.7; auc:0.787878787879; rmse:0.460550194313; sar:0.675776197855
+2017-12-16 14:47:00,749 - ensemble_model - DEBUG - NO improvement in backward-elimination
+2017-12-16 14:47:00,749 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,749 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,749 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,749 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,750 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,750 - ensemble_model - INFO - Trial:0; Iteration:6
+2017-12-16 14:47:00,751 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.7; auc:0.787878787879; rmse:0.460842903248; sar:0.67567862821
+2017-12-16 14:47:00,751 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,751 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,751 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,751 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,751 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,751 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,751 - ensemble_model - INFO - Trial:0; Iteration:7
+2017-12-16 14:47:00,752 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.75; auc:0.767676767677; rmse:0.464015100743; sar:0.684553888978
+2017-12-16 14:47:00,752 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,752 - ensemble_model - DEBUG - Backward Elimination: submodel_2
+2017-12-16 14:47:00,752 - ensemble_model - INFO - Trial:0; Iteration:8
+2017-12-16 14:47:00,753 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.75; auc:0.757575757576; rmse:0.462701259585; sar:0.681624832664
+2017-12-16 14:47:00,753 - ensemble_model - DEBUG - NO improvement in backward-elimination
+2017-12-16 14:47:00,753 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,753 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,753 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,753 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,753 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,753 - ensemble_model - INFO - Trial:0; Iteration:9
+2017-12-16 14:47:00,754 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.75; auc:0.767676767677; rmse:0.465130641915; sar:0.684182041921
+2017-12-16 14:47:00,754 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,754 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,754 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,754 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,755 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,755 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,755 - ensemble_model - INFO - Trial:0; Iteration:10
+2017-12-16 14:47:00,756 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.467751460256; sar:0.663274765773
+2017-12-16 14:47:00,756 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,756 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,756 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,756 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,756 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,756 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,756 - ensemble_model - INFO - Trial:0; Iteration:11
+2017-12-16 14:47:00,757 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.767676767677; rmse:0.466763514887; sar:0.666971084263
+2017-12-16 14:47:00,757 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,757 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,757 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,757 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,757 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,757 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,757 - ensemble_model - INFO - Trial:0; Iteration:12
+2017-12-16 14:47:00,758 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.767676767677; rmse:0.466041811702; sar:0.667211651992
+2017-12-16 14:47:00,758 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,758 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,758 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,758 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,758 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,759 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,759 - ensemble_model - INFO - Trial:0; Iteration:13
+2017-12-16 14:47:00,760 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.767676767677; rmse:0.465118013909; sar:0.667519584589
+2017-12-16 14:47:00,760 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,760 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,760 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,760 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,760 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,760 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,760 - ensemble_model - INFO - Trial:0; Iteration:14
+2017-12-16 14:47:00,761 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.767676767677; rmse:0.466650807112; sar:0.667008653521
+2017-12-16 14:47:00,761 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,761 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,761 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,761 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,761 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,761 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,761 - ensemble_model - INFO - Trial:0; Iteration:15
+2017-12-16 14:47:00,762 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.767676767677; rmse:0.466139233624; sar:0.667179178017
+2017-12-16 14:47:00,762 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,762 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,762 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,762 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,762 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,762 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,763 - ensemble_model - INFO - Trial:0; Iteration:16
+2017-12-16 14:47:00,763 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.467726444013; sar:0.663283104521
+2017-12-16 14:47:00,764 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,764 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,764 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,764 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,764 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,764 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,764 - ensemble_model - INFO - Trial:1; Iteration:0
+2017-12-16 14:47:00,765 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,765 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,765 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,765 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,765 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,765 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,765 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,765 - ensemble_model - INFO - Trial:1; Iteration:1
+2017-12-16 14:47:00,766 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.8; auc:0.757575757576; rmse:0.459047372061; sar:0.699509461838
+2017-12-16 14:47:00,766 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,766 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,766 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,766 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,766 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,766 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,766 - ensemble_model - INFO - Trial:1; Iteration:2
+2017-12-16 14:47:00,767 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.8; auc:0.767676767677; rmse:0.458955875731; sar:0.702906963982
+2017-12-16 14:47:00,767 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,767 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,767 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,768 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,768 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,768 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,768 - ensemble_model - INFO - Trial:1; Iteration:3
+2017-12-16 14:47:00,769 - ensemble_model - DEBUG - Avg. improvement:0.5; Avg. degradation:0.5; acc:0.75; auc:0.777777777778; rmse:0.459775307442; sar:0.689334156779
+2017-12-16 14:47:00,769 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,769 - ensemble_model - DEBUG - Backward Elimination: submodel_2
+2017-12-16 14:47:00,769 - ensemble_model - INFO - Trial:1; Iteration:4
+2017-12-16 14:47:00,770 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.0; acc:0.75; auc:0.787878787879; rmse:0.456182025968; sar:0.693898920637
+2017-12-16 14:47:00,770 - ensemble_model - DEBUG - NO improvement in backward-elimination
+2017-12-16 14:47:00,770 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,770 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,770 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,770 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,770 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,770 - ensemble_model - INFO - Trial:1; Iteration:5
+2017-12-16 14:47:00,771 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.787878787879; rmse:0.454620781973; sar:0.677752668635
+2017-12-16 14:47:00,771 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,771 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,771 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,771 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,771 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,771 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,771 - ensemble_model - INFO - Trial:1; Iteration:6
+2017-12-16 14:47:00,772 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.45622661268; sar:0.663749378265
+2017-12-16 14:47:00,772 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,772 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,772 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,772 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,772 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,772 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,773 - ensemble_model - INFO - Trial:1; Iteration:7
+2017-12-16 14:47:00,773 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.457213184136; sar:0.66678752448
+2017-12-16 14:47:00,773 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,774 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,774 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,774 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,774 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,774 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,774 - ensemble_model - INFO - Trial:1; Iteration:8
+2017-12-16 14:47:00,775 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.457982159793; sar:0.663164195894
+2017-12-16 14:47:00,775 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,775 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,775 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,775 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,775 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,775 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,775 - ensemble_model - INFO - Trial:1; Iteration:9
+2017-12-16 14:47:00,776 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.75; auc:0.767676767677; rmse:0.458319022658; sar:0.686452581673
+2017-12-16 14:47:00,776 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,776 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,776 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,776 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,776 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,776 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,776 - ensemble_model - INFO - Trial:1; Iteration:10
+2017-12-16 14:47:00,777 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.75; auc:0.767676767677; rmse:0.461722897622; sar:0.685317956685
+2017-12-16 14:47:00,777 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,777 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,778 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,778 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,778 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,778 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,778 - ensemble_model - INFO - Trial:1; Iteration:11
+2017-12-16 14:47:00,779 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.75; auc:0.767676767677; rmse:0.463558437626; sar:0.684706110017
+2017-12-16 14:47:00,779 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,779 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,779 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,779 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,779 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,779 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,779 - ensemble_model - INFO - Trial:1; Iteration:12
+2017-12-16 14:47:00,780 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.75; auc:0.767676767677; rmse:0.464294613857; sar:0.68446071794
+2017-12-16 14:47:00,780 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,780 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,780 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,780 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,780 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,781 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,781 - ensemble_model - INFO - Trial:1; Iteration:13
+2017-12-16 14:47:00,781 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.75; auc:0.767676767677; rmse:0.464088901253; sar:0.684529288808
+2017-12-16 14:47:00,782 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,782 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,782 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,782 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,782 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,782 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,782 - ensemble_model - INFO - Trial:1; Iteration:14
+2017-12-16 14:47:00,783 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.75; auc:0.767676767677; rmse:0.462561856484; sar:0.685038303731
+2017-12-16 14:47:00,783 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,783 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,783 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,783 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,783 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,783 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,783 - ensemble_model - INFO - Trial:1; Iteration:15
+2017-12-16 14:47:00,784 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.75; auc:0.767676767677; rmse:0.461335103329; sar:0.685447221449
+2017-12-16 14:47:00,784 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,784 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,784 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,784 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,784 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,784 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,785 - ensemble_model - INFO - Trial:2; Iteration:0
+2017-12-16 14:47:00,785 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,785 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,786 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,786 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,786 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,786 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,786 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,786 - ensemble_model - INFO - Trial:2; Iteration:1
+2017-12-16 14:47:00,787 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.818181818182; rmse:0.444490077022; sar:0.707897247053
+2017-12-16 14:47:00,787 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,787 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,787 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,787 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,787 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,787 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,787 - ensemble_model - INFO - Trial:2; Iteration:2
+2017-12-16 14:47:00,788 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.79797979798; rmse:0.456608952537; sar:0.680456948481
+2017-12-16 14:47:00,788 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,788 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,788 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,788 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,788 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,788 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,788 - ensemble_model - INFO - Trial:2; Iteration:3
+2017-12-16 14:47:00,789 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.792929292929; rmse:0.454522948938; sar:0.67946878133
+2017-12-16 14:47:00,789 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,789 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,789 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,789 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,789 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,790 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,790 - ensemble_model - INFO - Trial:2; Iteration:4
+2017-12-16 14:47:00,790 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.777777777778; rmse:0.455928932111; sar:0.673949615222
+2017-12-16 14:47:00,791 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,791 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,791 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,791 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,791 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,791 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,791 - ensemble_model - INFO - Trial:2; Iteration:5
+2017-12-16 14:47:00,792 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.777777777778; rmse:0.457656973597; sar:0.673373601394
+2017-12-16 14:47:00,792 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,792 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,792 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,792 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,792 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,792 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,792 - ensemble_model - INFO - Trial:2; Iteration:6
+2017-12-16 14:47:00,793 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.767676767677; rmse:0.461875760467; sar:0.668600335737
+2017-12-16 14:47:00,793 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,793 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,793 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,793 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,793 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,793 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,793 - ensemble_model - INFO - Trial:2; Iteration:7
+2017-12-16 14:47:00,794 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.461383929145; sar:0.665397276144
+2017-12-16 14:47:00,794 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,795 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,795 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,795 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,795 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,795 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,795 - ensemble_model - INFO - Trial:2; Iteration:8
+2017-12-16 14:47:00,796 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.461918801947; sar:0.66521898521
+2017-12-16 14:47:00,796 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,796 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,796 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,796 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,796 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,796 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,796 - ensemble_model - INFO - Trial:2; Iteration:9
+2017-12-16 14:47:00,797 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.464390759082; sar:0.661027996131
+2017-12-16 14:47:00,797 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,797 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,797 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,797 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,797 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,797 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,797 - ensemble_model - INFO - Trial:2; Iteration:10
+2017-12-16 14:47:00,798 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.463741864658; sar:0.661244294272
+2017-12-16 14:47:00,798 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,798 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,798 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,798 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,799 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,799 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,799 - ensemble_model - INFO - Trial:2; Iteration:11
+2017-12-16 14:47:00,800 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.463890050741; sar:0.664561902278
+2017-12-16 14:47:00,800 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,800 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,800 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,800 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,800 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,800 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,800 - ensemble_model - INFO - Trial:2; Iteration:12
+2017-12-16 14:47:00,801 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.464492794696; sar:0.664360987627
+2017-12-16 14:47:00,801 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,802 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,802 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,802 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,802 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,802 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,802 - ensemble_model - INFO - Trial:2; Iteration:13
+2017-12-16 14:47:00,803 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.767676767677; rmse:0.465082059764; sar:0.667531569304
+2017-12-16 14:47:00,803 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,803 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,803 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,803 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,803 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,803 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,803 - ensemble_model - INFO - Trial:2; Iteration:14
+2017-12-16 14:47:00,804 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.767676767677; rmse:0.465699980973; sar:0.667325595568
+2017-12-16 14:47:00,804 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,804 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,804 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,804 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,804 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,804 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,804 - ensemble_model - INFO - Trial:3; Iteration:0
+2017-12-16 14:47:00,805 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,805 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,806 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,806 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,806 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,806 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,806 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,806 - ensemble_model - INFO - Trial:3; Iteration:1
+2017-12-16 14:47:00,807 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.8; auc:0.757575757576; rmse:0.454029577388; sar:0.701182060063
+2017-12-16 14:47:00,807 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,807 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,807 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,807 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,807 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,807 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,807 - ensemble_model - INFO - Trial:3; Iteration:2
+2017-12-16 14:47:00,807 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.747474747475; rmse:0.46473132734; sar:0.677581140045
+2017-12-16 14:47:00,807 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,808 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,808 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,808 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,808 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,808 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,808 - ensemble_model - INFO - Trial:3; Iteration:3
+2017-12-16 14:47:00,809 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.762626262626; rmse:0.457595163145; sar:0.668343699827
+2017-12-16 14:47:00,809 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,809 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,809 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,809 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,810 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,810 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,810 - ensemble_model - INFO - Trial:3; Iteration:4
+2017-12-16 14:47:00,810 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.757575757576; rmse:0.466183300651; sar:0.680464152308
+2017-12-16 14:47:00,811 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,811 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,811 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,811 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,811 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,811 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,811 - ensemble_model - INFO - Trial:3; Iteration:5
+2017-12-16 14:47:00,812 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.462472601753; sar:0.661667381907
+2017-12-16 14:47:00,812 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,812 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,812 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,812 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,812 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,812 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,812 - ensemble_model - INFO - Trial:3; Iteration:6
+2017-12-16 14:47:00,813 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.767676767677; rmse:0.466964925264; sar:0.683570614138
+2017-12-16 14:47:00,813 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,813 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,814 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,814 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,814 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,814 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,814 - ensemble_model - INFO - Trial:3; Iteration:7
+2017-12-16 14:47:00,815 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.466578642409; sar:0.660298701688
+2017-12-16 14:47:00,815 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,815 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,815 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,815 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,815 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,815 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,815 - ensemble_model - INFO - Trial:3; Iteration:8
+2017-12-16 14:47:00,816 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.742424242424; rmse:0.466323440351; sar:0.658700267358
+2017-12-16 14:47:00,816 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,816 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,816 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,816 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,816 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,816 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,816 - ensemble_model - INFO - Trial:3; Iteration:9
+2017-12-16 14:47:00,817 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.46276120083; sar:0.661571182215
+2017-12-16 14:47:00,817 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,818 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,818 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,818 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,818 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,818 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,818 - ensemble_model - INFO - Trial:3; Iteration:10
+2017-12-16 14:47:00,819 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.752525252525; rmse:0.462685216447; sar:0.679946678693
+2017-12-16 14:47:00,819 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,819 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,819 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,819 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,819 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,819 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,819 - ensemble_model - INFO - Trial:3; Iteration:11
+2017-12-16 14:47:00,820 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.757575757576; rmse:0.462633387712; sar:0.681647456621
+2017-12-16 14:47:00,820 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,820 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,820 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,820 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,820 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,820 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,820 - ensemble_model - INFO - Trial:3; Iteration:12
+2017-12-16 14:47:00,821 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.46119922913; sar:0.662091839448
+2017-12-16 14:47:00,821 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,822 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,822 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,822 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,822 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,822 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,822 - ensemble_model - INFO - Trial:3; Iteration:13
+2017-12-16 14:47:00,823 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.463103793946; sar:0.66145698451
+2017-12-16 14:47:00,823 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,823 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,823 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,823 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,823 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,823 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,823 - ensemble_model - INFO - Trial:3; Iteration:14
+2017-12-16 14:47:00,824 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.463480766746; sar:0.664698330277
+2017-12-16 14:47:00,824 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,824 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,824 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,824 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,824 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,824 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,824 - ensemble_model - INFO - Trial:4; Iteration:0
+2017-12-16 14:47:00,825 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,825 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,825 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,825 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,825 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,826 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,826 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,826 - ensemble_model - INFO - Trial:4; Iteration:1
+2017-12-16 14:47:00,826 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.79797979798; rmse:0.454344111251; sar:0.681211895576
+2017-12-16 14:47:00,827 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,827 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,827 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,827 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,827 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,827 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,827 - ensemble_model - INFO - Trial:4; Iteration:2
+2017-12-16 14:47:00,828 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.767676767677; rmse:0.458649652929; sar:0.669675704916
+2017-12-16 14:47:00,828 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,828 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,828 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,828 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,828 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,828 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,828 - ensemble_model - INFO - Trial:4; Iteration:3
+2017-12-16 14:47:00,829 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.742424242424; rmse:0.470030731856; sar:0.674131170189
+2017-12-16 14:47:00,829 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,829 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,829 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,829 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,829 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,829 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,829 - ensemble_model - INFO - Trial:4; Iteration:4
+2017-12-16 14:47:00,830 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.464219775537; sar:0.664451994013
+2017-12-16 14:47:00,830 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,831 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,831 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,831 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,831 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,831 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,831 - ensemble_model - INFO - Trial:4; Iteration:5
+2017-12-16 14:47:00,832 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.467578324565; sar:0.66333247767
+2017-12-16 14:47:00,832 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,832 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,832 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,832 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,832 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,832 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,832 - ensemble_model - INFO - Trial:4; Iteration:6
+2017-12-16 14:47:00,833 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.466894418263; sar:0.660193443071
+2017-12-16 14:47:00,833 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,833 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,833 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,833 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,833 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,833 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,833 - ensemble_model - INFO - Trial:4; Iteration:7
+2017-12-16 14:47:00,834 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.465805781431; sar:0.660556322015
+2017-12-16 14:47:00,834 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,834 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,834 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,834 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,835 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,835 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,835 - ensemble_model - INFO - Trial:4; Iteration:8
+2017-12-16 14:47:00,835 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.466293679904; sar:0.663760692557
+2017-12-16 14:47:00,836 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,836 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,836 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,836 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,836 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,836 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,836 - ensemble_model - INFO - Trial:4; Iteration:9
+2017-12-16 14:47:00,837 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.767676767677; rmse:0.46476189177; sar:0.667638291969
+2017-12-16 14:47:00,837 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,837 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,837 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,837 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,837 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,837 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,837 - ensemble_model - INFO - Trial:4; Iteration:10
+2017-12-16 14:47:00,838 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.465503908242; sar:0.660656946411
+2017-12-16 14:47:00,838 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,838 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,838 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,838 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,838 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,838 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,838 - ensemble_model - INFO - Trial:4; Iteration:11
+2017-12-16 14:47:00,839 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.464524903689; sar:0.660983281262
+2017-12-16 14:47:00,839 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,840 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,840 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,840 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,840 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,840 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,840 - ensemble_model - INFO - Trial:4; Iteration:12
+2017-12-16 14:47:00,841 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.465887263129; sar:0.660529161449
+2017-12-16 14:47:00,841 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,841 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,841 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,841 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,841 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,841 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,841 - ensemble_model - INFO - Trial:4; Iteration:13
+2017-12-16 14:47:00,842 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.464871438728; sar:0.660867769582
+2017-12-16 14:47:00,842 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,842 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,842 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,842 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,842 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,842 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,842 - ensemble_model - INFO - Trial:4; Iteration:14
+2017-12-16 14:47:00,843 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.464607466226; sar:0.660955760416
+2017-12-16 14:47:00,843 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,843 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,844 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,844 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,844 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,844 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,844 - ensemble_model - INFO - Trial:5; Iteration:0
+2017-12-16 14:47:00,845 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,845 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,845 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,845 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,845 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,845 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,845 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,845 - ensemble_model - INFO - Trial:5; Iteration:1
+2017-12-16 14:47:00,846 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.792929292929; rmse:0.446139906673; sar:0.682263128752
+2017-12-16 14:47:00,846 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,846 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,846 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,846 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,846 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,846 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,846 - ensemble_model - INFO - Trial:5; Iteration:2
+2017-12-16 14:47:00,847 - ensemble_model - DEBUG - Avg. improvement:0.5; Avg. degradation:0.5; acc:0.7; auc:0.777777777778; rmse:0.462109786247; sar:0.67188933051
+2017-12-16 14:47:00,847 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,847 - ensemble_model - DEBUG - Backward Elimination: submodel_3
+2017-12-16 14:47:00,847 - ensemble_model - INFO - Trial:5; Iteration:3
+2017-12-16 14:47:00,848 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.0; acc:0.7; auc:0.787878787879; rmse:0.460412858204; sar:0.675821976558
+2017-12-16 14:47:00,849 - ensemble_model - DEBUG - NO improvement in backward-elimination
+2017-12-16 14:47:00,849 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,849 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,849 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,849 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,849 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,849 - ensemble_model - INFO - Trial:5; Iteration:4
+2017-12-16 14:47:00,850 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.757575757576; rmse:0.463472401192; sar:0.664701118795
+2017-12-16 14:47:00,850 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,850 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,850 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,850 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,850 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,850 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,850 - ensemble_model - INFO - Trial:5; Iteration:5
+2017-12-16 14:47:00,851 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.757575757576; rmse:0.466487731161; sar:0.663696008805
+2017-12-16 14:47:00,851 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,851 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,851 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,851 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,852 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,852 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,852 - ensemble_model - INFO - Trial:5; Iteration:6
+2017-12-16 14:47:00,853 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.757575757576; rmse:0.460610058193; sar:0.665655233127
+2017-12-16 14:47:00,853 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,853 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,853 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,853 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,853 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,853 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,853 - ensemble_model - INFO - Trial:5; Iteration:7
+2017-12-16 14:47:00,854 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.757575757576; rmse:0.458172250032; sar:0.666467835848
+2017-12-16 14:47:00,854 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,854 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,854 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,854 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,854 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,854 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,854 - ensemble_model - INFO - Trial:5; Iteration:8
+2017-12-16 14:47:00,855 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.757575757576; rmse:0.458742115817; sar:0.666277880586
+2017-12-16 14:47:00,855 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,855 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,855 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,855 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,855 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,855 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,856 - ensemble_model - INFO - Trial:5; Iteration:9
+2017-12-16 14:47:00,856 - ensemble_model - DEBUG - Avg. improvement:0.5; Avg. degradation:0.25; acc:0.75; auc:0.757575757576; rmse:0.458068259774; sar:0.683169165934
+2017-12-16 14:47:00,856 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,857 - ensemble_model - DEBUG - Backward Elimination: submodel_4
+2017-12-16 14:47:00,857 - ensemble_model - INFO - Trial:5; Iteration:10
+2017-12-16 14:47:00,858 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.0; acc:0.75; auc:0.767676767677; rmse:0.458663245005; sar:0.686337840891
+2017-12-16 14:47:00,858 - ensemble_model - DEBUG - NO improvement in backward-elimination
+2017-12-16 14:47:00,858 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,858 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,858 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,858 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,858 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,858 - ensemble_model - INFO - Trial:5; Iteration:11
+2017-12-16 14:47:00,859 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.757575757576; rmse:0.460448499306; sar:0.66570908609
+2017-12-16 14:47:00,859 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,859 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,859 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,859 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,859 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,859 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,859 - ensemble_model - INFO - Trial:5; Iteration:12
+2017-12-16 14:47:00,860 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.75; auc:0.757575757576; rmse:0.46237886315; sar:0.681732298142
+2017-12-16 14:47:00,860 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,860 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,861 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,861 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,861 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,861 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,861 - ensemble_model - INFO - Trial:5; Iteration:13
+2017-12-16 14:47:00,862 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.752525252525; rmse:0.462502248168; sar:0.663341001452
+2017-12-16 14:47:00,862 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,862 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,862 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,862 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,862 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,862 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,862 - ensemble_model - INFO - Trial:5; Iteration:14
+2017-12-16 14:47:00,863 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.462606119043; sar:0.661622876144
+2017-12-16 14:47:00,863 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,863 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,863 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,863 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,863 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,863 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,863 - ensemble_model - INFO - Trial:5; Iteration:15
+2017-12-16 14:47:00,864 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.75; auc:0.757575757576; rmse:0.461838045385; sar:0.68191257073
+2017-12-16 14:47:00,864 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,864 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,865 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,865 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,865 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,865 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,865 - ensemble_model - INFO - Trial:5; Iteration:16
+2017-12-16 14:47:00,866 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.0; acc:0.75; auc:0.767676767677; rmse:0.461847768321; sar:0.685276333119
+2017-12-16 14:47:00,866 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,866 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,866 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,866 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,866 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,866 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,866 - ensemble_model - INFO - Trial:6; Iteration:0
+2017-12-16 14:47:00,867 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,867 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,867 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,867 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,867 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,867 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,867 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,867 - ensemble_model - INFO - Trial:6; Iteration:1
+2017-12-16 14:47:00,868 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.772727272727; rmse:0.457444097176; sar:0.671761058517
+2017-12-16 14:47:00,868 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,868 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,868 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,868 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,868 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,869 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,869 - ensemble_model - INFO - Trial:6; Iteration:2
+2017-12-16 14:47:00,869 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.782828282828; rmse:0.453061213094; sar:0.676589023245
+2017-12-16 14:47:00,870 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,870 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,870 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,870 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,870 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,870 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,870 - ensemble_model - INFO - Trial:6; Iteration:3
+2017-12-16 14:47:00,871 - ensemble_model - DEBUG - Avg. improvement:0.5; Avg. degradation:0.5; acc:0.7; auc:0.782828282828; rmse:0.463738432021; sar:0.673029950269
+2017-12-16 14:47:00,871 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,871 - ensemble_model - DEBUG - Backward Elimination: submodel_2
+2017-12-16 14:47:00,871 - ensemble_model - INFO - Trial:6; Iteration:4
+2017-12-16 14:47:00,872 - ensemble_model - DEBUG - Avg. improvement:0.5; Avg. degradation:0.0; acc:0.75; auc:0.782828282828; rmse:0.461118316748; sar:0.690569988693
+2017-12-16 14:47:00,872 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,872 - ensemble_model - DEBUG - Backward Elimination: submodel_4
+2017-12-16 14:47:00,872 - ensemble_model - INFO - Trial:6; Iteration:5
+2017-12-16 14:47:00,873 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.787878787879; rmse:0.461326874577; sar:0.675517304434
+2017-12-16 14:47:00,873 - ensemble_model - DEBUG - NO improvement in backward-elimination
+2017-12-16 14:47:00,873 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,873 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,873 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,873 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,873 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,873 - ensemble_model - INFO - Trial:6; Iteration:6
+2017-12-16 14:47:00,874 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.75; auc:0.757575757576; rmse:0.467053411174; sar:0.680174115467
+2017-12-16 14:47:00,874 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,875 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,875 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,875 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,875 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,875 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,875 - ensemble_model - INFO - Trial:6; Iteration:7
+2017-12-16 14:47:00,876 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.464630173737; sar:0.664315194613
+2017-12-16 14:47:00,876 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,876 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,876 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,876 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,876 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,876 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,876 - ensemble_model - INFO - Trial:6; Iteration:8
+2017-12-16 14:47:00,877 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.767676767677; rmse:0.467149387558; sar:0.66684246004
+2017-12-16 14:47:00,877 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,877 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,877 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,877 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,877 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,877 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,877 - ensemble_model - INFO - Trial:6; Iteration:9
+2017-12-16 14:47:00,878 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.787878787879; rmse:0.465259187025; sar:0.674206533618
+2017-12-16 14:47:00,878 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,879 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,879 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,879 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,879 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,879 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,879 - ensemble_model - INFO - Trial:6; Iteration:10
+2017-12-16 14:47:00,880 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.777777777778; rmse:0.467441223661; sar:0.670112184706
+2017-12-16 14:47:00,880 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,880 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,880 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,880 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,880 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,880 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,881 - ensemble_model - INFO - Trial:6; Iteration:11
+2017-12-16 14:47:00,882 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.777777777778; rmse:0.468246197406; sar:0.669843860124
+2017-12-16 14:47:00,882 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,882 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,882 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,882 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,882 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,882 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,882 - ensemble_model - INFO - Trial:6; Iteration:12
+2017-12-16 14:47:00,883 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.777777777778; rmse:0.467340681864; sar:0.670145698638
+2017-12-16 14:47:00,883 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,883 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,883 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,883 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,883 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,883 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,883 - ensemble_model - INFO - Trial:6; Iteration:13
+2017-12-16 14:47:00,884 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.777777777778; rmse:0.466500161582; sar:0.670425872065
+2017-12-16 14:47:00,884 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,885 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,885 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,885 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,885 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,885 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,885 - ensemble_model - INFO - Trial:6; Iteration:14
+2017-12-16 14:47:00,886 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.787878787879; rmse:0.464904721421; sar:0.674324688819
+2017-12-16 14:47:00,886 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,886 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,886 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,886 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,886 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,886 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,886 - ensemble_model - INFO - Trial:6; Iteration:15
+2017-12-16 14:47:00,887 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.777777777778; rmse:0.465570434955; sar:0.670735780941
+2017-12-16 14:47:00,887 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,887 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,887 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,887 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,887 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,887 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,887 - ensemble_model - INFO - Trial:6; Iteration:16
+2017-12-16 14:47:00,888 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.767676767677; rmse:0.46730881305; sar:0.666789318209
+2017-12-16 14:47:00,888 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,889 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,889 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,889 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,889 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,889 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,889 - ensemble_model - INFO - Trial:7; Iteration:0
+2017-12-16 14:47:00,890 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,890 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,890 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,890 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,890 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,890 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,890 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,890 - ensemble_model - INFO - Trial:7; Iteration:1
+2017-12-16 14:47:00,891 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.767676767677; rmse:0.462579281677; sar:0.668365828667
+2017-12-16 14:47:00,891 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,891 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,891 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,891 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,891 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,891 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,891 - ensemble_model - INFO - Trial:7; Iteration:2
+2017-12-16 14:47:00,892 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.737373737374; rmse:0.465850328889; sar:0.657174469495
+2017-12-16 14:47:00,892 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,892 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,892 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,892 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,892 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,893 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,893 - ensemble_model - INFO - Trial:7; Iteration:3
+2017-12-16 14:47:00,893 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.767676767677; rmse:0.462221688034; sar:0.685151693214
+2017-12-16 14:47:00,894 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,894 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,894 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,894 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,894 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,894 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,894 - ensemble_model - INFO - Trial:7; Iteration:4
+2017-12-16 14:47:00,895 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.757575757576; rmse:0.462119050268; sar:0.681818902436
+2017-12-16 14:47:00,895 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,895 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,895 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,895 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,895 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,895 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,895 - ensemble_model - INFO - Trial:7; Iteration:5
+2017-12-16 14:47:00,896 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.757575757576; rmse:0.467307373657; sar:0.680089461306
+2017-12-16 14:47:00,896 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,896 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,896 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,896 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,896 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,896 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,896 - ensemble_model - INFO - Trial:7; Iteration:6
+2017-12-16 14:47:00,897 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.747474747475; rmse:0.469630505899; sar:0.675948080525
+2017-12-16 14:47:00,897 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,898 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,898 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,898 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,898 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,898 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,898 - ensemble_model - INFO - Trial:7; Iteration:7
+2017-12-16 14:47:00,899 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.757575757576; rmse:0.466123451245; sar:0.68048410211
+2017-12-16 14:47:00,899 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,899 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,899 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,899 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,899 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,899 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,899 - ensemble_model - INFO - Trial:7; Iteration:8
+2017-12-16 14:47:00,900 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.46716426338; sar:0.660103494698
+2017-12-16 14:47:00,900 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,900 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,900 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,900 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,900 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,900 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,900 - ensemble_model - INFO - Trial:7; Iteration:9
+2017-12-16 14:47:00,901 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.466868792519; sar:0.660201984985
+2017-12-16 14:47:00,901 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,901 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,902 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,902 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,902 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,902 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,902 - ensemble_model - INFO - Trial:7; Iteration:10
+2017-12-16 14:47:00,903 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.737373737374; rmse:0.465529467634; sar:0.657281423247
+2017-12-16 14:47:00,903 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,903 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,903 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,903 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,903 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,903 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,903 - ensemble_model - INFO - Trial:7; Iteration:11
+2017-12-16 14:47:00,904 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.465178353817; sar:0.660765464553
+2017-12-16 14:47:00,904 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,904 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,904 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,904 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,904 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,904 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,904 - ensemble_model - INFO - Trial:7; Iteration:12
+2017-12-16 14:47:00,905 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.737373737374; rmse:0.469082148758; sar:0.656097196205
+2017-12-16 14:47:00,905 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,906 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,906 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,906 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,906 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,906 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,906 - ensemble_model - INFO - Trial:7; Iteration:13
+2017-12-16 14:47:00,907 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.466062635453; sar:0.660470704007
+2017-12-16 14:47:00,907 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,907 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,907 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,907 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,907 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,907 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,907 - ensemble_model - INFO - Trial:7; Iteration:14
+2017-12-16 14:47:00,908 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.465771685947; sar:0.663934690543
+2017-12-16 14:47:00,908 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,908 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,908 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,908 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,908 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,908 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,908 - ensemble_model - INFO - Trial:8; Iteration:0
+2017-12-16 14:47:00,909 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,909 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,909 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,909 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,910 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,910 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,910 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,910 - ensemble_model - INFO - Trial:8; Iteration:1
+2017-12-16 14:47:00,911 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.772727272727; rmse:0.457444097176; sar:0.671761058517
+2017-12-16 14:47:00,911 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,911 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,911 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,911 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,911 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,911 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,911 - ensemble_model - INFO - Trial:8; Iteration:2
+2017-12-16 14:47:00,912 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.747474747475; rmse:0.459149411214; sar:0.679441778754
+2017-12-16 14:47:00,912 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,912 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,912 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,912 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,912 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,912 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,912 - ensemble_model - INFO - Trial:8; Iteration:3
+2017-12-16 14:47:00,913 - ensemble_model - DEBUG - Avg. improvement:0.5; Avg. degradation:0.5; acc:0.7; auc:0.787878787879; rmse:0.458041725416; sar:0.676612354154
+2017-12-16 14:47:00,913 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,913 - ensemble_model - DEBUG - Backward Elimination: submodel_4
+2017-12-16 14:47:00,913 - ensemble_model - INFO - Trial:8; Iteration:4
+2017-12-16 14:47:00,914 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.7; auc:0.787878787879; rmse:0.45833549783; sar:0.676514430016
+2017-12-16 14:47:00,915 - ensemble_model - DEBUG - NO improvement in backward-elimination
+2017-12-16 14:47:00,915 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,915 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,915 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,915 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,915 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,915 - ensemble_model - INFO - Trial:8; Iteration:5
+2017-12-16 14:47:00,916 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.7; auc:0.787878787879; rmse:0.462354266925; sar:0.675174840318
+2017-12-16 14:47:00,916 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,916 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,916 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,916 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,916 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,916 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,916 - ensemble_model - INFO - Trial:8; Iteration:6
+2017-12-16 14:47:00,917 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.747474747475; rmse:0.464761052089; sar:0.660904565129
+2017-12-16 14:47:00,917 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,917 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,917 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,917 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,917 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,917 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,918 - ensemble_model - INFO - Trial:8; Iteration:7
+2017-12-16 14:47:00,918 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.747474747475; rmse:0.466379982488; sar:0.660364921662
+2017-12-16 14:47:00,918 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,919 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,919 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,919 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,919 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,919 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,919 - ensemble_model - INFO - Trial:8; Iteration:8
+2017-12-16 14:47:00,920 - ensemble_model - DEBUG - Avg. improvement:0.5; Avg. degradation:0.25; acc:0.75; auc:0.757575757576; rmse:0.464040415011; sar:0.681178447522
+2017-12-16 14:47:00,920 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,920 - ensemble_model - DEBUG - Backward Elimination: submodel_2
+2017-12-16 14:47:00,920 - ensemble_model - INFO - Trial:8; Iteration:9
+2017-12-16 14:47:00,921 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.75; auc:0.757575757576; rmse:0.462512462295; sar:0.681687765094
+2017-12-16 14:47:00,921 - ensemble_model - DEBUG - NO improvement in backward-elimination
+2017-12-16 14:47:00,921 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,921 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,921 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,921 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,921 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,921 - ensemble_model - INFO - Trial:8; Iteration:10
+2017-12-16 14:47:00,922 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.767676767677; rmse:0.461392302865; sar:0.668761488271
+2017-12-16 14:47:00,922 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,922 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,922 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,922 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,922 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,922 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,922 - ensemble_model - INFO - Trial:8; Iteration:11
+2017-12-16 14:47:00,923 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.459049914996; sar:0.662808277493
+2017-12-16 14:47:00,923 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,924 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,924 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,924 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,924 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,924 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,924 - ensemble_model - INFO - Trial:8; Iteration:12
+2017-12-16 14:47:00,925 - ensemble_model - DEBUG - Avg. improvement:0.5; Avg. degradation:0.25; acc:0.75; auc:0.767676767677; rmse:0.456452447917; sar:0.687074773253
+2017-12-16 14:47:00,925 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,925 - ensemble_model - DEBUG - Backward Elimination: submodel_3
+2017-12-16 14:47:00,925 - ensemble_model - INFO - Trial:8; Iteration:13
+2017-12-16 14:47:00,926 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.75; auc:0.767676767677; rmse:0.455994340976; sar:0.687227475567
+2017-12-16 14:47:00,926 - ensemble_model - DEBUG - NO improvement in backward-elimination
+2017-12-16 14:47:00,926 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,926 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,926 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,926 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,926 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,926 - ensemble_model - INFO - Trial:8; Iteration:14
+2017-12-16 14:47:00,927 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.75; auc:0.767676767677; rmse:0.457700572859; sar:0.686658731606
+2017-12-16 14:47:00,927 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,927 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,927 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,927 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,927 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,927 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,927 - ensemble_model - INFO - Trial:8; Iteration:15
+2017-12-16 14:47:00,928 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.75; auc:0.767676767677; rmse:0.458855789045; sar:0.686273659544
+2017-12-16 14:47:00,928 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,928 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,929 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,929 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,929 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,929 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,929 - ensemble_model - INFO - Trial:8; Iteration:16
+2017-12-16 14:47:00,930 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.75; auc:0.767676767677; rmse:0.460520366829; sar:0.685718800283
+2017-12-16 14:47:00,930 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,930 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,930 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,930 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,930 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,930 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,930 - ensemble_model - INFO - Trial:8; Iteration:17
+2017-12-16 14:47:00,931 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.75; auc:0.767676767677; rmse:0.461440327777; sar:0.685412146633
+2017-12-16 14:47:00,931 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,931 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,931 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,931 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,931 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,931 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,931 - ensemble_model - INFO - Trial:9; Iteration:0
+2017-12-16 14:47:00,932 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,932 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,932 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,932 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,932 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,932 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,932 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,933 - ensemble_model - INFO - Trial:9; Iteration:1
+2017-12-16 14:47:00,933 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.75; auc:0.787878787879; rmse:0.45159580989; sar:0.69542765933
+2017-12-16 14:47:00,933 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,934 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,934 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,934 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,934 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,934 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,934 - ensemble_model - INFO - Trial:9; Iteration:2
+2017-12-16 14:47:00,935 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.787878787879; rmse:0.448551387365; sar:0.679775800171
+2017-12-16 14:47:00,935 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,935 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,935 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,935 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,935 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,935 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,935 - ensemble_model - INFO - Trial:9; Iteration:3
+2017-12-16 14:47:00,936 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.457777238403; sar:0.663232503024
+2017-12-16 14:47:00,936 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,936 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,936 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,936 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,936 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,936 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,936 - ensemble_model - INFO - Trial:9; Iteration:4
+2017-12-16 14:47:00,937 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.75; auc:0.787878787879; rmse:0.457649662183; sar:0.693409708565
+2017-12-16 14:47:00,937 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,937 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,937 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,937 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,938 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,938 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,938 - ensemble_model - INFO - Trial:9; Iteration:5
+2017-12-16 14:47:00,938 - ensemble_model - DEBUG - Avg. improvement:0.5; Avg. degradation:0.5; acc:0.7; auc:0.777777777778; rmse:0.458507070239; sar:0.673090235846
+2017-12-16 14:47:00,939 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,939 - ensemble_model - DEBUG - Backward Elimination: submodel_4
+2017-12-16 14:47:00,939 - ensemble_model - INFO - Trial:9; Iteration:6
+2017-12-16 14:47:00,940 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.757575757576; rmse:0.45913028634; sar:0.666148490412
+2017-12-16 14:47:00,940 - ensemble_model - DEBUG - NO improvement in backward-elimination
+2017-12-16 14:47:00,940 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,940 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,940 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,940 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,940 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,940 - ensemble_model - INFO - Trial:9; Iteration:7
+2017-12-16 14:47:00,941 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.747474747475; rmse:0.459926337515; sar:0.662516136653
+2017-12-16 14:47:00,941 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,941 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,941 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,941 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,941 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,941 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,941 - ensemble_model - INFO - Trial:9; Iteration:8
+2017-12-16 14:47:00,942 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.7; auc:0.777777777778; rmse:0.460209652265; sar:0.672522708504
+2017-12-16 14:47:00,942 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,942 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,942 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,942 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,942 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,942 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,943 - ensemble_model - INFO - Trial:9; Iteration:9
+2017-12-16 14:47:00,943 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.757575757576; rmse:0.462138330735; sar:0.665145808947
+2017-12-16 14:47:00,943 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,944 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,944 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,944 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,944 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,944 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,944 - ensemble_model - INFO - Trial:9; Iteration:10
+2017-12-16 14:47:00,946 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.757575757576; rmse:0.462094750225; sar:0.665160335784
+2017-12-16 14:47:00,946 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,946 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,946 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,946 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,946 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,946 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,946 - ensemble_model - INFO - Trial:9; Iteration:11
+2017-12-16 14:47:00,949 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.747474747475; rmse:0.464185696975; sar:0.661096350167
+2017-12-16 14:47:00,949 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,949 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,949 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,949 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,949 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,949 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,949 - ensemble_model - INFO - Trial:9; Iteration:12
+2017-12-16 14:47:00,950 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.747474747475; rmse:0.465651069974; sar:0.6606078925
+2017-12-16 14:47:00,951 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,951 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,951 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,951 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,951 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,951 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,951 - ensemble_model - INFO - Trial:9; Iteration:13
+2017-12-16 14:47:00,952 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.747474747475; rmse:0.466379463443; sar:0.660365094677
+2017-12-16 14:47:00,952 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,952 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,952 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,952 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,952 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,952 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,952 - ensemble_model - INFO - Trial:9; Iteration:14
+2017-12-16 14:47:00,953 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.747474747475; rmse:0.467261053975; sar:0.660071231167
+2017-12-16 14:47:00,953 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,954 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,954 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,954 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,954 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,954 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,954 - ensemble_model - INFO - Trial:9; Iteration:15
+2017-12-16 14:47:00,955 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.737373737374; rmse:0.467353327187; sar:0.656673470062
+2017-12-16 14:47:00,955 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,955 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,955 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,955 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,955 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,955 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,955 - ensemble_model - INFO - Trial:10; Iteration:0
+2017-12-16 14:47:00,956 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,956 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,956 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,956 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,956 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,956 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,956 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,957 - ensemble_model - INFO - Trial:10; Iteration:1
+2017-12-16 14:47:00,957 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.767676767677; rmse:0.462579281677; sar:0.668365828667
+2017-12-16 14:47:00,958 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,958 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,958 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,958 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,958 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,958 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,958 - ensemble_model - INFO - Trial:10; Iteration:2
+2017-12-16 14:47:00,959 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.777777777778; rmse:0.45540827201; sar:0.674123168589
+2017-12-16 14:47:00,959 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,959 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,959 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,959 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,959 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,959 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,959 - ensemble_model - INFO - Trial:10; Iteration:3
+2017-12-16 14:47:00,960 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.787878787879; rmse:0.455297216723; sar:0.677527190385
+2017-12-16 14:47:00,960 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,960 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,960 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,960 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,961 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,961 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,961 - ensemble_model - INFO - Trial:10; Iteration:4
+2017-12-16 14:47:00,962 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.456511825796; sar:0.667021310593
+2017-12-16 14:47:00,962 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,962 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,962 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,962 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,962 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,962 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,962 - ensemble_model - INFO - Trial:10; Iteration:5
+2017-12-16 14:47:00,963 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.75; auc:0.79797979798; rmse:0.454524617154; sar:0.697818393609
+2017-12-16 14:47:00,963 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,963 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,963 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,963 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,963 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,963 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,963 - ensemble_model - INFO - Trial:10; Iteration:6
+2017-12-16 14:47:00,964 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.464166583549; sar:0.664469724675
+2017-12-16 14:47:00,964 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,964 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,965 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,965 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,965 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,965 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,965 - ensemble_model - INFO - Trial:10; Iteration:7
+2017-12-16 14:47:00,966 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.767676767677; rmse:0.46138618449; sar:0.685430194396
+2017-12-16 14:47:00,966 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,966 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,966 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,966 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,966 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,966 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,966 - ensemble_model - INFO - Trial:10; Iteration:8
+2017-12-16 14:47:00,967 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.752525252525; rmse:0.459431325507; sar:0.664364642339
+2017-12-16 14:47:00,967 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,967 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,967 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,967 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,967 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,967 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,967 - ensemble_model - INFO - Trial:10; Iteration:9
+2017-12-16 14:47:00,968 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.462886208847; sar:0.661529512876
+2017-12-16 14:47:00,968 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,968 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,968 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,969 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,969 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,969 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,969 - ensemble_model - INFO - Trial:10; Iteration:10
+2017-12-16 14:47:00,970 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.462995747492; sar:0.661492999994
+2017-12-16 14:47:00,970 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,970 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,970 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,970 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,970 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,970 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,970 - ensemble_model - INFO - Trial:10; Iteration:11
+2017-12-16 14:47:00,971 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.463504180071; sar:0.661323522468
+2017-12-16 14:47:00,971 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,971 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,971 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,971 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,971 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,971 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,971 - ensemble_model - INFO - Trial:10; Iteration:12
+2017-12-16 14:47:00,972 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.463744144217; sar:0.661243534419
+2017-12-16 14:47:00,972 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,972 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,973 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,973 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,973 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,973 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,973 - ensemble_model - INFO - Trial:10; Iteration:13
+2017-12-16 14:47:00,974 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.464344201202; sar:0.661043515424
+2017-12-16 14:47:00,974 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,974 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,974 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,974 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,974 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,974 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,974 - ensemble_model - INFO - Trial:10; Iteration:14
+2017-12-16 14:47:00,975 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.767676767677; rmse:0.46472493123; sar:0.684317278816
+2017-12-16 14:47:00,975 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,975 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,975 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,975 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,975 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,975 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,975 - ensemble_model - INFO - Trial:11; Iteration:0
+2017-12-16 14:47:00,976 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,976 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,976 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,976 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,977 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,977 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,977 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,977 - ensemble_model - INFO - Trial:11; Iteration:1
+2017-12-16 14:47:00,978 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.818181818182; rmse:0.440847976944; sar:0.709111280413
+2017-12-16 14:47:00,978 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,978 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,978 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,978 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,978 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,978 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,978 - ensemble_model - INFO - Trial:11; Iteration:2
+2017-12-16 14:47:00,979 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.808080808081; rmse:0.441966866115; sar:0.688704647322
+2017-12-16 14:47:00,979 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,979 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,979 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,979 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,979 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,979 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,979 - ensemble_model - INFO - Trial:11; Iteration:3
+2017-12-16 14:47:00,980 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.787878787879; rmse:0.447370092876; sar:0.696836231668
+2017-12-16 14:47:00,980 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,980 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,980 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,981 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,981 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,981 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,981 - ensemble_model - INFO - Trial:11; Iteration:4
+2017-12-16 14:47:00,982 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.75; auc:0.777777777778; rmse:0.450315371177; sar:0.692487468867
+2017-12-16 14:47:00,982 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,982 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,982 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,982 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,982 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,982 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,982 - ensemble_model - INFO - Trial:11; Iteration:5
+2017-12-16 14:47:00,983 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.75; auc:0.787878787879; rmse:0.452477949624; sar:0.695133612752
+2017-12-16 14:47:00,983 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,983 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,983 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,983 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,983 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,983 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,983 - ensemble_model - INFO - Trial:11; Iteration:6
+2017-12-16 14:47:00,984 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.75; auc:0.767676767677; rmse:0.456699857615; sar:0.686992303354
+2017-12-16 14:47:00,984 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,984 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,984 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,984 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,984 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,985 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,985 - ensemble_model - INFO - Trial:11; Iteration:7
+2017-12-16 14:47:00,985 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.75; auc:0.757575757576; rmse:0.456167128947; sar:0.68380287621
+2017-12-16 14:47:00,986 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,986 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,986 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,986 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,986 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,986 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,986 - ensemble_model - INFO - Trial:11; Iteration:8
+2017-12-16 14:47:00,987 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.767676767677; rmse:0.458126620052; sar:0.686516715875
+2017-12-16 14:47:00,987 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,987 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,988 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,988 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,988 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,988 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,988 - ensemble_model - INFO - Trial:11; Iteration:9
+2017-12-16 14:47:00,989 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.767676767677; rmse:0.460579488065; sar:0.685699093204
+2017-12-16 14:47:00,989 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,989 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,989 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,989 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,989 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,989 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,989 - ensemble_model - INFO - Trial:11; Iteration:10
+2017-12-16 14:47:00,990 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.767676767677; rmse:0.459943914562; sar:0.685910951038
+2017-12-16 14:47:00,990 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,990 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,990 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,990 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,990 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,990 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,990 - ensemble_model - INFO - Trial:11; Iteration:11
+2017-12-16 14:47:00,991 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.767676767677; rmse:0.459295374278; sar:0.686127131133
+2017-12-16 14:47:00,991 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,991 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,992 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,992 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,992 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,992 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,992 - ensemble_model - INFO - Trial:11; Iteration:12
+2017-12-16 14:47:00,993 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.767676767677; rmse:0.458131286073; sar:0.686515160535
+2017-12-16 14:47:00,993 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,993 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,993 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,993 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,993 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,993 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,993 - ensemble_model - INFO - Trial:11; Iteration:13
+2017-12-16 14:47:00,994 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.767676767677; rmse:0.459044462097; sar:0.686210768527
+2017-12-16 14:47:00,994 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,994 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,994 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,994 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,994 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,994 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,994 - ensemble_model - INFO - Trial:11; Iteration:14
+2017-12-16 14:47:00,995 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.767676767677; rmse:0.457987146514; sar:0.686563207054
+2017-12-16 14:47:00,995 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,995 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,995 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,995 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,996 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,996 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,996 - ensemble_model - INFO - Trial:12; Iteration:0
+2017-12-16 14:47:00,996 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:00,997 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:00,997 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,997 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,997 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:00,997 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,997 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,997 - ensemble_model - INFO - Trial:12; Iteration:1
+2017-12-16 14:47:00,998 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.8; auc:0.787878787879; rmse:0.446425714277; sar:0.713817691201
+2017-12-16 14:47:00,998 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,998 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,998 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:00,998 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,998 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,998 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:00,998 - ensemble_model - INFO - Trial:12; Iteration:2
+2017-12-16 14:47:00,999 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.465268961582; sar:0.664102265331
+2017-12-16 14:47:00,999 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:00,999 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:00,999 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:00,999 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,000 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,000 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,000 - ensemble_model - INFO - Trial:12; Iteration:3
+2017-12-16 14:47:01,001 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.460692715134; sar:0.665627680814
+2017-12-16 14:47:01,001 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,001 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,001 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,001 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,001 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,001 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,001 - ensemble_model - INFO - Trial:12; Iteration:4
+2017-12-16 14:47:01,002 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.460587965798; sar:0.665662597259
+2017-12-16 14:47:01,002 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,002 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,002 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,002 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,002 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,002 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,002 - ensemble_model - INFO - Trial:12; Iteration:5
+2017-12-16 14:47:01,003 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.457706537098; sar:0.666623073493
+2017-12-16 14:47:01,003 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,004 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,004 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,004 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,004 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,004 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,004 - ensemble_model - INFO - Trial:12; Iteration:6
+2017-12-16 14:47:01,005 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.455515656187; sar:0.66735336713
+2017-12-16 14:47:01,005 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,005 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,005 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,005 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,005 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,005 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,005 - ensemble_model - INFO - Trial:12; Iteration:7
+2017-12-16 14:47:01,006 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.456632814825; sar:0.666980980917
+2017-12-16 14:47:01,006 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,006 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,006 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,006 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,006 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,006 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,006 - ensemble_model - INFO - Trial:12; Iteration:8
+2017-12-16 14:47:01,007 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.459383348876; sar:0.666064136233
+2017-12-16 14:47:01,007 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,008 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,008 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,008 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,008 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,008 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,008 - ensemble_model - INFO - Trial:12; Iteration:9
+2017-12-16 14:47:01,009 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.757575757576; rmse:0.458495309374; sar:0.683026816067
+2017-12-16 14:47:01,009 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,009 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,009 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,009 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,010 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,010 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,010 - ensemble_model - INFO - Trial:12; Iteration:10
+2017-12-16 14:47:01,011 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.463343715393; sar:0.661377010694
+2017-12-16 14:47:01,011 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,011 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,011 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,011 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,011 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,011 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,011 - ensemble_model - INFO - Trial:12; Iteration:11
+2017-12-16 14:47:01,012 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.464212705496; sar:0.661087347326
+2017-12-16 14:47:01,012 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,012 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,012 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,013 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,013 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,013 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,013 - ensemble_model - INFO - Trial:12; Iteration:12
+2017-12-16 14:47:01,014 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.460990775606; sar:0.662161323956
+2017-12-16 14:47:01,014 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,014 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,014 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,014 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,014 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,014 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,014 - ensemble_model - INFO - Trial:12; Iteration:13
+2017-12-16 14:47:01,015 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.461878843546; sar:0.661865301309
+2017-12-16 14:47:01,015 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,016 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,016 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,016 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,016 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,016 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,016 - ensemble_model - INFO - Trial:12; Iteration:14
+2017-12-16 14:47:01,017 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.747474747475; rmse:0.46069498977; sar:0.662259919235
+2017-12-16 14:47:01,017 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,017 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,017 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,017 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,017 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,017 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,017 - ensemble_model - INFO - Trial:13; Iteration:0
+2017-12-16 14:47:01,018 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:01,018 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:01,018 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,018 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,018 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,018 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,019 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,019 - ensemble_model - INFO - Trial:13; Iteration:1
+2017-12-16 14:47:01,019 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.75; auc:0.757575757576; rmse:0.458324366022; sar:0.683083797184
+2017-12-16 14:47:01,020 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,020 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,020 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,020 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,020 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,020 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,020 - ensemble_model - INFO - Trial:13; Iteration:2
+2017-12-16 14:47:01,021 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.752525252525; rmse:0.46026851667; sar:0.664085578618
+2017-12-16 14:47:01,021 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,021 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,021 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,021 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,021 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,021 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,021 - ensemble_model - INFO - Trial:13; Iteration:3
+2017-12-16 14:47:01,022 - ensemble_model - DEBUG - Avg. improvement:0.5; Avg. degradation:0.5; acc:0.7; auc:0.782828282828; rmse:0.460352521927; sar:0.674158586967
+2017-12-16 14:47:01,022 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:01,022 - ensemble_model - DEBUG - Backward Elimination: submodel_3
+2017-12-16 14:47:01,022 - ensemble_model - INFO - Trial:13; Iteration:4
+2017-12-16 14:47:01,023 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.0; acc:0.7; auc:0.787878787879; rmse:0.45833549783; sar:0.676514430016
+2017-12-16 14:47:01,023 - ensemble_model - DEBUG - NO improvement in backward-elimination
+2017-12-16 14:47:01,024 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,024 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,024 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,024 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,024 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,024 - ensemble_model - INFO - Trial:13; Iteration:5
+2017-12-16 14:47:01,025 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.767676767677; rmse:0.463322339228; sar:0.668118142816
+2017-12-16 14:47:01,025 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,025 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,025 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,025 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,025 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,025 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,025 - ensemble_model - INFO - Trial:13; Iteration:6
+2017-12-16 14:47:01,026 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.0; acc:0.7; auc:0.787878787879; rmse:0.459706284137; sar:0.676057501247
+2017-12-16 14:47:01,026 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,026 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,026 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,026 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,026 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,026 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,026 - ensemble_model - INFO - Trial:13; Iteration:7
+2017-12-16 14:47:01,027 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.757575757576; rmse:0.465338350581; sar:0.664079135665
+2017-12-16 14:47:01,027 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,027 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,027 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,027 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,028 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,028 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,028 - ensemble_model - INFO - Trial:13; Iteration:8
+2017-12-16 14:47:01,028 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.7; auc:0.772727272727; rmse:0.46547280518; sar:0.669084822516
+2017-12-16 14:47:01,029 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,029 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,029 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,029 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,029 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,029 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,029 - ensemble_model - INFO - Trial:13; Iteration:9
+2017-12-16 14:47:01,030 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.7; auc:0.777777777778; rmse:0.464354720147; sar:0.67114101921
+2017-12-16 14:47:01,030 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,030 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,030 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,030 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,030 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,030 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,030 - ensemble_model - INFO - Trial:13; Iteration:10
+2017-12-16 14:47:01,031 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.7; auc:0.772727272727; rmse:0.464732183768; sar:0.66933169632
+2017-12-16 14:47:01,031 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,031 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,031 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,031 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,031 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,032 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,032 - ensemble_model - INFO - Trial:13; Iteration:11
+2017-12-16 14:47:01,032 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.747474747475; rmse:0.464185696975; sar:0.661096350167
+2017-12-16 14:47:01,033 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,033 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,033 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,033 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,033 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,033 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,033 - ensemble_model - INFO - Trial:13; Iteration:12
+2017-12-16 14:47:01,034 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.747474747475; rmse:0.461395868618; sar:0.662026292952
+2017-12-16 14:47:01,034 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,034 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,034 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,034 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,034 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,034 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,034 - ensemble_model - INFO - Trial:13; Iteration:13
+2017-12-16 14:47:01,035 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.757575757576; rmse:0.462763168474; sar:0.664937529701
+2017-12-16 14:47:01,035 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,035 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,035 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,036 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,036 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,036 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,036 - ensemble_model - INFO - Trial:13; Iteration:14
+2017-12-16 14:47:01,037 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.7; auc:0.772727272727; rmse:0.46328649901; sar:0.669813591239
+2017-12-16 14:47:01,037 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,037 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,037 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,037 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,037 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,037 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,037 - ensemble_model - INFO - Trial:13; Iteration:15
+2017-12-16 14:47:01,038 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.757575757576; rmse:0.462788067234; sar:0.664929230114
+2017-12-16 14:47:01,038 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,038 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,038 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,038 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,038 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,038 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,038 - ensemble_model - INFO - Trial:14; Iteration:0
+2017-12-16 14:47:01,039 - ensemble_model - DEBUG - Avg. improvement:0.75; Avg. degradation:0.25; acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607
+2017-12-16 14:47:01,039 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:01,039 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,039 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,039 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,040 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,040 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,040 - ensemble_model - INFO - Trial:14; Iteration:1
+2017-12-16 14:47:01,040 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.5; acc:0.75; auc:0.79797979798; rmse:0.449285146491; sar:0.69956488383
+2017-12-16 14:47:01,041 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,041 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,041 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,041 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,041 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,041 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,041 - ensemble_model - INFO - Trial:14; Iteration:2
+2017-12-16 14:47:01,042 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.455503535743; sar:0.667357407278
+2017-12-16 14:47:01,042 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,042 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,042 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,042 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,042 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,042 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,042 - ensemble_model - INFO - Trial:14; Iteration:3
+2017-12-16 14:47:01,043 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.752525252525; rmse:0.462183224851; sar:0.663447342558
+2017-12-16 14:47:01,043 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,043 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,043 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,043 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,043 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,043 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,043 - ensemble_model - INFO - Trial:14; Iteration:4
+2017-12-16 14:47:01,044 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.464838458224; sar:0.664245766451
+2017-12-16 14:47:01,044 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,045 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,045 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,045 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,045 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,045 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,045 - ensemble_model - INFO - Trial:14; Iteration:5
+2017-12-16 14:47:01,046 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.757575757576; rmse:0.461339997803; sar:0.665411919924
+2017-12-16 14:47:01,046 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,046 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,046 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,046 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,046 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,046 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,046 - ensemble_model - INFO - Trial:14; Iteration:6
+2017-12-16 14:47:01,047 - ensemble_model - DEBUG - Avg. improvement:0.25; Avg. degradation:0.75; acc:0.7; auc:0.767676767677; rmse:0.458109372891; sar:0.669855798262
+2017-12-16 14:47:01,047 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,048 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,048 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,048 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,048 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,048 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,048 - ensemble_model - INFO - Trial:14; Iteration:7
+2017-12-16 14:47:01,049 - ensemble_model - DEBUG - Avg. improvement:0.5; Avg. degradation:0.5; acc:0.7; auc:0.79797979798; rmse:0.460159905248; sar:0.679273297577
+2017-12-16 14:47:01,049 - ensemble_model - DEBUG - Some improvement in a step-wise move
+2017-12-16 14:47:01,049 - ensemble_model - DEBUG - Backward Elimination: submodel_4
+2017-12-16 14:47:01,049 - ensemble_model - INFO - Trial:14; Iteration:8
+2017-12-16 14:47:01,050 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.7; auc:0.787878787879; rmse:0.460144301038; sar:0.675911495614
+2017-12-16 14:47:01,050 - ensemble_model - DEBUG - NO improvement in backward-elimination
+2017-12-16 14:47:01,050 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,050 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,050 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,050 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,050 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,050 - ensemble_model - INFO - Trial:14; Iteration:9
+2017-12-16 14:47:01,051 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.7; auc:0.787878787879; rmse:0.459561015025; sar:0.676105924285
+2017-12-16 14:47:01,051 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,051 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,051 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,051 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,052 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,052 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,052 - ensemble_model - INFO - Trial:14; Iteration:10
+2017-12-16 14:47:01,053 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.7; auc:0.787878787879; rmse:0.456344708632; sar:0.677178026416
+2017-12-16 14:47:01,053 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,053 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,053 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,053 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,053 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,053 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,053 - ensemble_model - INFO - Trial:14; Iteration:11
+2017-12-16 14:47:01,054 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.25; acc:0.7; auc:0.787878787879; rmse:0.456234677688; sar:0.677214703397
+2017-12-16 14:47:01,054 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,054 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,054 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,054 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,054 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,054 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,054 - ensemble_model - INFO - Trial:14; Iteration:12
+2017-12-16 14:47:01,055 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.0; acc:0.7; auc:0.79797979798; rmse:0.457532649046; sar:0.680149049644
+2017-12-16 14:47:01,055 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,055 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,055 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,055 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,055 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,055 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,056 - ensemble_model - INFO - Trial:14; Iteration:13
+2017-12-16 14:47:01,056 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.777777777778; rmse:0.456678831955; sar:0.673699648608
+2017-12-16 14:47:01,057 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,057 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,057 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,057 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,057 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,057 - ensemble_model - DEBUG - Forward Selection: submodel_2
+2017-12-16 14:47:01,057 - ensemble_model - INFO - Trial:14; Iteration:14
+2017-12-16 14:47:01,058 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.767676767677; rmse:0.457299655813; sar:0.670125703955
+2017-12-16 14:47:01,058 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,058 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,058 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,058 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,058 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,058 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,058 - ensemble_model - INFO - Trial:14; Iteration:15
+2017-12-16 14:47:01,059 - ensemble_model - DEBUG - Avg. improvement:0.0; Avg. degradation:0.5; acc:0.7; auc:0.767676767677; rmse:0.456315603399; sar:0.670453721426
+2017-12-16 14:47:01,059 - ensemble_model - DEBUG - NO improvement in forward-selection
+2017-12-16 14:47:01,059 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,059 - ensemble_model - DEBUG - Forward Selection: submodel_3
+2017-12-16 14:47:01,059 - ensemble_model - DEBUG - Forward Selection: submodel_main
+2017-12-16 14:47:01,059 - ensemble_model - DEBUG - Forward Selection: submodel_4
+2017-12-16 14:47:01,059 - ensemble_model - DEBUG - Forward Selection: submodel_1
+2017-12-16 14:47:01,060 - ensemble_model - INFO - Initial Solution: 
+[['submodel_main' '2']]
+2017-12-16 14:47:01,060 - ensemble_model - INFO - Performance of the inputted sub-models:
+2017-12-16 14:47:01,060 - ensemble_model - INFO - 1,submodel_main,acc:0.85; auc:0.772727272727; rmse:0.452769256907; sar:0.723319338607; sensitivity:1.0; precision:0.75; specificity:0.727272727273
+2017-12-16 14:47:01,061 - ensemble_model - INFO - 2,submodel_1,acc:0.8; auc:0.722222222222; rmse:0.47853944456; sar:0.681227592554; sensitivity:1.0; precision:0.692307692308; specificity:0.636363636364
+2017-12-16 14:47:01,061 - ensemble_model - INFO - 3,submodel_2,acc:0.7; auc:0.646464646465; rmse:0.51526692112; sar:0.610399241782; sensitivity:0.888888888889; precision:0.615384615385; specificity:0.545454545455
+2017-12-16 14:47:01,062 - ensemble_model - INFO - 4,submodel_3,acc:0.7; auc:0.666666666667; rmse:0.504975246918; sar:0.620563806583; sensitivity:0.888888888889; precision:0.615384615385; specificity:0.545454545455
+2017-12-16 14:47:01,062 - ensemble_model - INFO - 5,submodel_4,acc:0.65; auc:0.69696969697; rmse:0.497493718553; sar:0.616491992805; sensitivity:0.777777777778; precision:0.583333333333; specificity:0.545454545455
+2017-12-16 14:47:01,062 - ensemble_model - INFO - Performance of the generated ensemble models:
+2017-12-16 14:47:01,063 - ensemble_model - INFO - 1,14 * submodel_1 + 11 * submodel_2 + 12 * submodel_3 + 17 * submodel_4 + 9 * submodel_main,acc:0.7; auc:0.757575757576; rmse:0.467726444013; sar:0.663283104521; sensitivity:0.888888888889; precision:0.615384615385; specificity:0.545454545455
+2017-12-16 14:47:01,063 - ensemble_model - INFO - 2,12 * submodel_1 + 11 * submodel_2 + 12 * submodel_3 + 9 * submodel_4 + 19 * submodel_main,acc:0.75; auc:0.767676767677; rmse:0.461335103329; sar:0.685447221449; sensitivity:0.888888888889; precision:0.666666666667; specificity:0.636363636364
+2017-12-16 14:47:01,064 - ensemble_model - INFO - 3,11 * submodel_1 + 12 * submodel_2 + 13 * submodel_3 + 16 * submodel_4 + 11 * submodel_main,acc:0.7; auc:0.767676767677; rmse:0.465699980973; sar:0.667325595568; sensitivity:0.888888888889; precision:0.615384615385; specificity:0.545454545455
+2017-12-16 14:47:01,064 - ensemble_model - INFO - 4,15 * submodel_1 + 9 * submodel_2 + 12 * submodel_3 + 13 * submodel_4 + 14 * submodel_main,acc:0.7; auc:0.757575757576; rmse:0.463480766746; sar:0.664698330277; sensitivity:0.888888888889; precision:0.615384615385; specificity:0.545454545455
+2017-12-16 14:47:01,065 - ensemble_model - INFO - 5,14 * submodel_1 + 11 * submodel_2 + 14 * submodel_3 + 11 * submodel_4 + 13 * submodel_main,acc:0.7; auc:0.747474747475; rmse:0.464607466226; sar:0.660955760416; sensitivity:0.888888888889; precision:0.615384615385; specificity:0.545454545455
+2017-12-16 14:47:01,065 - ensemble_model - INFO - 6,11 * submodel_1 + 14 * submodel_2 + 10 * submodel_3 + 10 * submodel_4 + 18 * submodel_main,acc:0.75; auc:0.767676767677; rmse:0.461847768321; sar:0.685276333119; sensitivity:0.888888888889; precision:0.666666666667; specificity:0.636363636364
+2017-12-16 14:47:01,066 - ensemble_model - INFO - 7,11 * submodel_1 + 13 * submodel_2 + 16 * submodel_3 + 11 * submodel_4 + 11 * submodel_main,acc:0.7; auc:0.767676767677; rmse:0.46730881305; sar:0.666789318209; sensitivity:0.888888888889; precision:0.615384615385; specificity:0.545454545455
+2017-12-16 14:47:01,067 - ensemble_model - INFO - 8,14 * submodel_1 + 13 * submodel_2 + 12 * submodel_3 + 13 * submodel_4 + 11 * submodel_main,acc:0.7; auc:0.757575757576; rmse:0.465771685947; sar:0.663934690543; sensitivity:0.888888888889; precision:0.615384615385; specificity:0.545454545455
+2017-12-16 14:47:01,067 - ensemble_model - INFO - 9,13 * submodel_1 + 11 * submodel_2 + 11 * submodel_3 + 9 * submodel_4 + 19 * submodel_main,acc:0.75; auc:0.767676767677; rmse:0.461440327777; sar:0.685412146633; sensitivity:0.888888888889; precision:0.666666666667; specificity:0.636363636364
+2017-12-16 14:47:01,068 - ensemble_model - INFO - 10,13 * submodel_1 + 13 * submodel_2 + 14 * submodel_3 + 10 * submodel_4 + 13 * submodel_main,acc:0.7; auc:0.737373737374; rmse:0.467353327187; sar:0.656673470062; sensitivity:0.888888888889; precision:0.615384615385; specificity:0.545454545455
+2017-12-16 14:47:01,068 - ensemble_model - INFO - 11,15 * submodel_1 + 10 * submodel_2 + 14 * submodel_3 + 9 * submodel_4 + 15 * submodel_main,acc:0.75; auc:0.767676767677; rmse:0.46472493123; sar:0.684317278816; sensitivity:0.888888888889; precision:0.666666666667; specificity:0.636363636364
+2017-12-16 14:47:01,069 - ensemble_model - INFO - 12,15 * submodel_1 + 9 * submodel_2 + 9 * submodel_3 + 9 * submodel_4 + 21 * submodel_main,acc:0.75; auc:0.767676767677; rmse:0.457987146514; sar:0.686563207054; sensitivity:0.888888888889; precision:0.666666666667; specificity:0.636363636364
+2017-12-16 14:47:01,069 - ensemble_model - INFO - 13,13 * submodel_1 + 12 * submodel_2 + 10 * submodel_3 + 10 * submodel_4 + 18 * submodel_main,acc:0.7; auc:0.747474747475; rmse:0.46069498977; sar:0.662259919235; sensitivity:0.888888888889; precision:0.615384615385; specificity:0.545454545455
+2017-12-16 14:47:01,070 - ensemble_model - INFO - 14,10 * submodel_1 + 10 * submodel_2 + 13 * submodel_3 + 14 * submodel_4 + 16 * submodel_main,acc:0.7; auc:0.757575757576; rmse:0.462788067234; sar:0.664929230114; sensitivity:0.888888888889; precision:0.615384615385; specificity:0.545454545455
+2017-12-16 14:47:01,070 - ensemble_model - INFO - 15,10 * submodel_1 + 8 * submodel_2 + 9 * submodel_3 + 16 * submodel_4 + 20 * submodel_main,acc:0.7; auc:0.767676767677; rmse:0.456315603399; sar:0.670453721426; sensitivity:0.888888888889; precision:0.615384615385; specificity:0.545454545455

@@ -26,7 +26,13 @@ Supported Python Version: 3.5
 
 ------
 # [ERMER](https://github.com/mesgarpour/ERMER)
-[Ensemble Risk Model of Emergency Admissions (ERMER)](https://github.com/mesgarpour/ERMER) is an optimised ensemble of sub-models that are trained using [Bayes Point Machine (BPM)](http://www.jmlr.org/papers/v1/herbrich01a.html). The features of the model are generated using the [Healthcare Pre-Processing Framework](https://github.com/mesgarpour/Healthcare_PreProcessing_Framework), but it is not integrated into the [ERMER](https://github.com/mesgarpour/ERMER) development toolkit, in order to preserve the tool's generic structure. The [ERMER](https://github.com/mesgarpour/ERMER) development toolkit is a generic, user-friendly and open-source software package that can be used for development of temporal comorbidity index independent of source of healthcare data.
+[Ensemble Risk Model of Emergency Admissions (ERMER)](https://github.com/mesgarpour/ERMER) is an optimised ensemble of sub-models that are trained using [Bayes Point Machine (BPM)](http://www.jmlr.org/papers/v1/herbrich01a.html). The features of the model are generated using the [Healthcare Pre-Processing Framework](https://github.com/mesgarpour/Healthcare_PreProcessing_Framework), but it is not integrated into the [ERMER](https://github.com/mesgarpour/ERMER) development toolkit, in order to preserve the tool's generic structure. The [ERMER](https://github.com/mesgarpour/ERMER) development toolkit is a generic, user-friendly and open-source software package that can be used for development of temporal comorbidity index independent of source of healthcare data..
+
+<br>
+<div align="center" style="text-align: center">
+  <img width="90%" height="90%" src="https://github.com/mesgarpour/ERMER/blob/master/Documents/UML/Mohsen%20-%20ERMER%20-%20Illustration%20%5B2017.02%5D.jpg">
+</div>
+<br>
  
 
 # Introduction
